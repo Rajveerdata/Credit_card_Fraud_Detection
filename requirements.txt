@@ -1,0 +1,7 @@
+pandas 
+numpy
+standard scaler 
+LogisticRegression
+DecisionTreeClassifier
+RandomForestClassifier
+joblib
